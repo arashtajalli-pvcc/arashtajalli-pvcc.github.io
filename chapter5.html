@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Programming Algorithms & Software Testing</title>
+			<style>
+    body{}
+    h1{}
+    h2{}
+    h3{}
+
+    table {
+    background-color:aliceblue; width:400px;
+    border:10px solid;
+    }
+    tr{text-align: center;}
+    td{text-align: left; color: #000000}
+
+    ul{}
+    ol{}
+    li{}
+    a {text-decoration: none; font-weight: bold; font-size: 1.2em;}
+    a:link {color: #8c0a31}
+    a:visited {color: #00c600}
+    a:hover {color:#e900e9}
+    a:active {color: #0066f2}
+		</style>
+	</head>
+
+
+    <body style="color:#6b5600;background-color:#d0a3a7; background-image: url(ch5wp.png)";>
+
+        <table style="background-color: rgba(179, 255, 0, 0.95); margin:auto;width:auto;";>
+
+        <tr style = "background-color: #dee7f7; border-width:10px;">
+			<td><a href="index.html"> Home </a></td>
+			<td><a href="https://www.pvcc.edu"> PVCC </a></td>
+			<td><a href="https://www.w3schools.com/html/"> W3 Schools </a></td>
+			<td><a href="contactus.html"> Contact Us </a></td>
+		</tr>		
+        <tr style="background-color: #0f9970;">
+            <td colspan="4";margin:auto;>
+                <h1 style="text-align:center">Chapter 5: Programming Algorithms & Software Testing</h1>
+            </td>
+        </tr>
+
+        <tr style="background-color: #d0a3a7;">
+            <td colspan="2";>
+                <h2>Phases of computer program development:</h2>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4";>
+                <p>&nbsp;Phase 1: Understand the problem</p>
+                <p>&nbsp;Phase 2: Design an algorithm to solve the problem</p>
+                <p>&nbsp;Phase 3: Write the program code in appropriate language based on the algorithm</p>
+                <p>&nbsp;Phase 4: Enter the Program and save</p>
+                <p>&nbsp;Phase 5: Execute the program</p>
+                <p>&nbsp;Phase 6: Test the program, find errors and debug, then retest</p>
+                <p>&nbsp;Phase 7: Document and evaluate the program</p>
+            </td>
+        </tr>
+        <tr style="background-color: #d0a3a7;">
+            <td colspan="2";>
+                <h2>Programming structures:</h2>
+            </td>
+        </tr>
+        <tr>
+            <td colspan ="4";> 
+                <p>Sequential structure: Top-down execution</p>
+                <p>Decision structures: if/then/else</p>
+                <p>Iterative (Looping):</p>
+                <p>While loop: continue looping as long as something is true</p>
+                <p>repeat/until loop: continue looping until something is true</p>
+                <p>for loop: loop a given number of times</p>
+                <p>Recursive structures:</p>
+                <p>Repeat a set of instructions as a subtask of itself</p>
+                <p>Repitition continues until:</p>
+                <p>degenerative case, which is a termination condition, is met</p>
+                <p>(degenerative case is also called a "base case")</p>
+            </td>
+        </tr>
+        <tr style="background-color: #d0a3a7;">
+            <td colspan="2";>
+                <h2>Two classic programming/database problems</h2>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4";>
+                <p>Sorting: Descending order/Ascending order</p>
+                <p>Sorting numbers</p>
+                <p>Sorting strings ( in accordance with ASCII values)</p>
+                <p>Searching: find specific data that meets a certain criteria</p>
+                <h3>In database:</h3>
+                <p>Filters: temporary search</p>
+                <p>Queries: search criteria are saved so they don't have to be recreated</p>
+                <h3>Two popular search techniques</h3>
+                <p>Sequential search: search from top to bottom or bottom to top, one item at a time</p>
+                <p>Binary search:</p>
+                <p>only works if data is SORTED first</p>
+                <p>start in the middle, then go to half of that, etc.</p>
+            </td>
+        </tr>
+            <tr style="background-color: #d0a3a7;">
+                <td colspan="2";>
+                    <h2>Two classic program goals:</h2>
+                </td>
+            </tr>
+        <tr>
+            <td colspan="4";>
+                <p>Efficiency: Program takes minimal time and/or resources</p>
+                <p>Correctness: Program runs in expected ways and works for all expected conditions</p>
+            </td>
+        </tr>
+        <tr style="background-color: #d0a3a7;">
+            <td colspan="2";>
+                <h2>Software testing and verification</h2>
+            </td>
+        </tr>
+        <tr style="background-color: #d0a3a7;">
+            <td colspan="2";>
+                <h3>Kinds of tests:</h3>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4";>
+                <h3>Acceptance testing:</h3>
+                <p>Verifying whether the whole system works as intended.</p>
+                <h3>Integration testings:</h3>
+                <p>Ensuring that software components or functions operate together.</p>
+                <h3>Unit testing:</h3>
+                <p>Validating that each software unit performs as expected. A unit is the smallest testable component of an application.</p>
+                <h3>Functional testing:</h3>
+                <p>Checking functions by emulating business scenarios, based on functional requirements. Black-box testing is a common way to verify functions.</p>
+                <h3>Performance testing:</h3>
+                <p>Testing how the software performs under different workloads. Load testing, for example, is used to evaluate performance under real-life load conditions.</p>
+                <h3>Regression testing:</h3>
+                <p>Checking whether new features break or degrade functionality. Sanity testing can be used to verify menus, functions and commands at the surface level, when there is no time for a full regression test.</p>
+                <h3>Stress testing:</h3>
+                <p>Testing how much strain the system can take before it fails. Considered to be a type of non-functional testing.</p>
+                <h3>Usability testing:</h3>
+                <p>Validating how well a customer can use a system or web application to complete a task.</p>
+            </td>
+        </tr>
+            <tr style="background-color: #d0a3a7;">
+                <td colspan="2";>
+                    <h2>Software testing is done to detect:</h2>
+                </td>
+            </tr>
+        <tr>
+            <td colspan="4";>
+                <p>Architectural flaws</p>
+                <p>Poor design decisions</p>
+                <p>Invalid or incorrect functionality</p>
+                <p>Security Vulnerablities</p>
+                <p>Scalability issues</p>
+            </td>
+        </tr>
+        <tr style="background-color: #d0a3a7;">
+            <td colspan="2";>
+                    <h2>Testing best practices:</h2>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4";>
+                <h3>Continuous testing</h3>
+                <p>Project teams test each build as it becomes available. This type of software testing relies on test automation that is integrated with the deployment process. It enables software to be validated in realistic test environments earlier in the process – improving design and reducing risks.</p>
+                <h3>Configuration management</h3>
+                <p>Organizations centrally maintain test assets and track what software builds to test. Teams gain access to assets such as code, requirements, design documents, models, test scripts and test results. Good systems include user authentication and audit trails to help teams meet compliance requirements with minimal administrative effort.</p>
+                <h3>Service virtualization</h3>
+                <p>Testing environments may not be available, especially early in code development. Service virtualization simulates the services and systems that are missing or not yet completed, enabling teams to reduce dependencies and test sooner. They can reuse, deploy and change a configuration to test different scenarios without having to modify the original environment.</p>
+                <h3>Defect or "bug tracking"</h3>
+                <p>Monitoring defects is important to both testing and development teams for measuring and improving quality. Automated tools allow teams to track defects, measure their scope and impact, and uncover related issues.</p>
+                <h3>Metrics and reporting</h3>
+                <p>Reporting and analytics enable team members to share status, goals and test results. Advanced tools integrate project metrics and present results in a dashboard. Teams quickly see the overall health of a project and can monitor relationships between test, development and other project elements.</p>
+                <p><a href="https://www.ibm.com/topics/software-testing"></a>From: IBM what is software testing?</p>
+            </td>
+        </tr>
+            </td>
+        </table>
+    </body>
+
+</html>
