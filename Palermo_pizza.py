@@ -18,6 +18,20 @@ def main():
     get_user_data()
     order_calcs()
     display_results()
+    retry()
+
+def retry():
+    askAgain = input("\nWould you like to order again (Y or N)?: ")
+    if askAgain.upper() == "N" or askAgain == "n":
+        print("Thank you for your order. Enjoy your food! ")
+        print("Project completed by: Arash-Tajalli && Lewis-Fassero")
+        exit()
+    elif askAgain.upper() == "Y" or askAgain == "y":
+        main()
+    else:
+        print("you'll have to put in a Y or N character please\n")
+        retry()
+
 
 def get_user_data():
     global pizza_size, num_pizza, num_drinks, num_br_sticks
