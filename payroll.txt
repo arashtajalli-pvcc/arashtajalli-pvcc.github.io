@@ -1,0 +1,103 @@
+
+----------------------------------------------
+********* FRESH FOODS MARKET ************
+********* WEEKLY PAYROLL REPORT ************
+	2023-11-27 14:58:10.592552
+----------------------------------------------
+Emp Name	Code	Gross	Fed Inc Tax	State Inc Tax	Soc Sec	Medicare	Net
+Smith, James      C  610.50
+Johnson, Patricia S  456.75
+Williams, John    J  504.00
+Brown, Michael    M  390.00
+Jones, Elizabeth  C  396.00
+Garcia, Brian     C  561.00
+Miller, Deborah   C  462.00
+Davis, Timothy    C  379.50
+Rodriguez, Ronald S  551.25
+Martinez, Karen   M  760.50
+Hernandez, Lisa   C  594.00
+Lopez, Nancy      S  456.75
+Gonzales, Betty   C  429.00
+Wilson, Sandra    C  627.00
+Anderson, Margie  S  441.00
+Thomas, Daniel    C  511.50
+Taylor, Steven    C  610.50
+Moore, Andrew     M  624.00
+Jackson, Donna    J  567.00
+Martin, Yolanda   S  346.50
+Lee, Carolina     S  441.00
+Perez, Kevin      C  478.50
+Thompson, Brian   S  330.75
+White, Deborah    M  604.50
+----------------------------------------------
+********************* TOTAL GROSS: $12,133.50
+********************* TOTAL NET: $8,899.92
+----------------------------------------------
+----------------------------------------------
+********* FRESH FOODS MARKET ************
+********* WEEKLY PAYROLL REPORT ************
+	2023-11-27 14:58:16.141664
+----------------------------------------------
+Emp Name	Code	Gross	Fed Inc Tax	State Inc Tax	Soc Sec	Medicare	Net
+Smith, James      C  610.50
+Johnson, Patricia S  456.75
+Williams, John    J  504.00
+Brown, Michael    M  390.00
+Jones, Elizabeth  C  396.00
+Garcia, Brian     C  561.00
+Miller, Deborah   C  462.00
+Davis, Timothy    C  379.50
+Rodriguez, Ronald S  551.25
+Martinez, Karen   M  760.50
+Hernandez, Lisa   C  594.00
+Lopez, Nancy      S  456.75
+Gonzales, Betty   C  429.00
+Wilson, Sandra    C  627.00
+Anderson, Margie  S  441.00
+Thomas, Daniel    C  511.50
+Taylor, Steven    C  610.50
+Moore, Andrew     M  624.00
+Jackson, Donna    J  567.00
+Martin, Yolanda   S  346.50
+Lee, Carolina     S  441.00
+Perez, Kevin      C  478.50
+Thompson, Brian   S  330.75
+White, Deborah    M  604.50
+----------------------------------------------
+********************* TOTAL GROSS: $12,133.50
+********************* TOTAL NET: $8,899.92
+----------------------------------------------
+----------------------------------------------
+********* FRESH FOODS MARKET ************
+********* WEEKLY PAYROLL REPORT ************
+	2023-11-27 14:58:17.910192
+----------------------------------------------
+Emp Name	Code	Gross	Fed Inc Tax	State Inc Tax	Soc Sec	Medicare	Net
+Smith, James      C  610.50
+Johnson, Patricia S  456.75
+Williams, John    J  504.00
+Brown, Michael    M  390.00
+Jones, Elizabeth  C  396.00
+Garcia, Brian     C  561.00
+Miller, Deborah   C  462.00
+Davis, Timothy    C  379.50
+Rodriguez, Ronald S  551.25
+Martinez, Karen   M  760.50
+Hernandez, Lisa   C  594.00
+Lopez, Nancy      S  456.75
+Gonzales, Betty   C  429.00
+Wilson, Sandra    C  627.00
+Anderson, Margie  S  441.00
+Thomas, Daniel    C  511.50
+Taylor, Steven    C  610.50
+Moore, Andrew     M  624.00
+Jackson, Donna    J  567.00
+Martin, Yolanda   S  346.50
+Lee, Carolina     S  441.00
+Perez, Kevin      C  478.50
+Thompson, Brian   S  330.75
+White, Deborah    M  604.50
+----------------------------------------------
+********************* TOTAL GROSS: $12,133.50
+********************* TOTAL NET: $8,899.92
+----------------------------------------------
